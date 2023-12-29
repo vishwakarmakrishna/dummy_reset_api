@@ -81,9 +81,6 @@ lib
 │   │   │   ├── product_rating.dart
 │   ├── routes
 │   │   ├── app_pages.dart
-├── assets
-│   ├── images
-│   │   ├── splash_image.jpg
 
 ## Dependencies
 
